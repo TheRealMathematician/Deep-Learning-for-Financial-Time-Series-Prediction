@@ -121,46 +121,6 @@ The core goals are:
 
 ---
 
-## 🧰 Repository Structure
-
-```bash
-├── data/                # Raw and processed datasets
-├── notebooks/           # MLP, LSTM, CNN-GAF development
-├── models/              # Saved model weights
-├── results/             # Backtesting plots, metrics
-└── README.md            # Project overview (this file)
-```
-
----
-
-## 📦 Dependencies
-
-```bash
-Python 3.8+
-pip install -r requirements.txt
-```
-
-Main Libraries:
-
-* `TensorFlow`
-* `scikit-learn`
-* `yfinance`
-* `pandas`, `numpy`
-* `matplotlib`, `seaborn`
-
----
-
-## 👨‍💻 Contributors
-
-* Tumelo Ranoto 🇿🇦
-* Wycliffe Kipkoech Cheruiyot 🇰🇪
-* Azeez Arisekola Sebiotimo 🇳🇬
-
-🔬 MScFE 642 — Deep Learning for Finance
-📜 License: MIT
-
----
-
 ## 🌟 Future Enhancements
 
 1. Integrate transformer models (e.g., **Time Series BERT**)
